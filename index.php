@@ -5,7 +5,7 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="styles.css">
     <script src="./functions.js" charset="utf-8"></script>
-    <title>Lesson</title>
+    <title>Tetris</title>
   </head>
   <body>
 
