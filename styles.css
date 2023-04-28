@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.dpk {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
